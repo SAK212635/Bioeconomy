@@ -1,5 +1,13 @@
-Mathematics
-Algebra (Pre Algebra , Scalar Algebra , Vector Algebra , Matrix Algebra , Tensor Algebra , Abstract Algebra , Linear Algebra ) 
+### Learning 
+
+| S.No. | Computer Science             | Mathematics |
+| ----- | ---------------------------- | ----------- |
+| 1.    | Theoretical Computer Science | Pure Mathematics
+| 2.    | Applied Computer Science     | Applied Mathematics |
+| 3.    | Software Engineering         | Computational Mathematics |
+
+
+- Algebra (Pre Algebra , Scalar Algebra , Vector Algebra , Matrix Algebra, Tensor Algebra, Abstract Algebra, Linear Algebra ) 
 Calculus( Single Variable , Multi Variable Calculus , Differential Equation , Partial Calculus )
 Analysis
 Real Analysis , Complex Analysis , Harmonic Analysis ( Fourier Transformation ) 
@@ -7,8 +15,8 @@ Functional Analysis ( Single variable function as set)
 Geometry ( Topology, Eucladian )
 Number Theory
 
+## Computer Science
 
-Theoretical Computer Science
 Theory of COmputation
 Complexity Analysis
 DSA
