@@ -53,22 +53,33 @@ Number Theory
 
 ## Computer Science
 
-Theory of Computation
-Complexity Analysis
-DSA
-Algorithmic Theory
-Data-Driven Development
-Deep Learning
-
-
-Computer Science 
-Data Structure and Algorithm 
-OOPS
-O.S. (Windows, Linux and Unix )
-Database Management System ( SQL, MySQL, SQLite, NoSQL{MongoDB)
-RDBMS ( JSON(File management system for software engineering , XML ( Android and IOS) , YAML( Cloud System ) , WAMS ( Works in all main OS)
-Docker ( Software platform that allows you to build, test and deploy applications quickly).
-Agile development for planning to complete the project
-Software Architecture
-Backend Frontend  ( Full Stack)
-HPC, Multithreading, GPU, Concurrency)
+- Theoretical Computer Science
+  - Classical Algorithmic Theory
+  - Classical Coding Theory
+  - Classical Complexity Theory
+  - Classical Computational Theory
+  - Classical Error Correction Theory
+  - Classical Information Theory
+- Applied Computer Science
+  - OOPS
+  - OS
+  - DBMS
+- Software Engineering
+  - Agile Development **[Best Practices]**
+  - Software Architecture
+  - Data Serialization
+    - JSON
+    - YAML
+    - XML
+  - Web Assembly **[WASM]**
+  - DevOps
+    - Docker
+- Artificial Intelligence
+  - AGI
+  - Machine Learning **[ML]**
+  - Deep Learning **[DL]**
+- Programming
+  - Multithread Programming 
+  - HPC Programming 
+  - GPU Programming
+  - Meta Programming 
