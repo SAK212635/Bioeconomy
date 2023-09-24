@@ -53,18 +53,22 @@ Number Theory
 
 ## Computer Science
 
-- Theoretical Computer Science
-  - Classical Algorithmic Theory
-  - Classical Coding Theory
-  - Classical Complexity Theory
-  - Classical Computational Theory
-  - Classical Error Correction Theory
-  - Classical Information Theory
-- Applied Computer Science
-  - OOPS
-  - OS
-  - DBMS
-- Software Engineering
+### Theoretical Computer Science
+
+- Classical Algorithmic Theory
+- Classical Coding Theory
+- Classical Complexity Theory
+- Classical Computational Theory
+- Classical Error Correction Theory
+- Classical Information Theory
+
+### Applied Computer Science
+
+- Operating System **[OS]**
+- Database and Management System **[DBMS]**
+- Modelling and Simulation **[MnS]**
+
+### Software Engineering
   - Agile Development **[Best Practices]**
   - Software Architecture
   - Data Serialization
@@ -78,8 +82,15 @@ Number Theory
   - AGI
   - Machine Learning **[ML]**
   - Deep Learning **[DL]**
-- Programming
-  - Multithread Programming 
-  - HPC Programming 
-  - GPU Programming
-  - Meta Programming 
+
+### Programming
+
+- Imperative Programming 
+- Object Oriented Programming
+- Functional Programming 
+- Multithread Programming 
+- HPC Programming 
+- GPU Programming
+- Meta Programming 
+- Command Line Interface (CLI) Programming
+- 
