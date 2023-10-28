@@ -1,4 +1,4 @@
-### Advanced Mathematics:
+# Advanced Mathematics:
 
 Make sure you have a solid grasp of the mathematical concepts mentioned in the previous response. If any of these areas are not covered in your current coursework, consider taking additional courses or self-studying to fill in the gaps.
 
